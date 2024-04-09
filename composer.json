@@ -22,7 +22,7 @@
     "require": {
         "illuminate/http": "^9.35|^10.5|^11.0",
         "illuminate/support": "^9.35|^10.5|^11.0",
-        "rennokki/laravel-sns-events": "^7.2"
+        "onemor-app/laravel-sns-events": "^7.3"
     },
     "autoload": {
         "psr-4": {
