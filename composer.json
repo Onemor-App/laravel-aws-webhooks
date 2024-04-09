@@ -1,5 +1,5 @@
 {
-    "name": "renoki-co/laravel-aws-webhooks",
+    "name": "onemor-app/laravel-aws-webhooks",
     "description": "Easy webhook handler for Laravel to catch AWS SNS notifications for various services.",
     "keywords": [
         "laravel",
@@ -45,7 +45,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
         "laravel": {
